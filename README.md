@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/fisforfaheem/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<a href="https://t.me/ahzam_shahnil">
+<a href="https://t.me/fisforfaheem">
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
    
@@ -30,9 +30,6 @@
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<a href="https://www.upwork.com/freelancers/~01a17fc495d4ee4c20">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/ahzam-shahnil/ahzam-shahnil/main/upwork.ico" />
-</a>
 </div>
 
 <br>
@@ -54,7 +51,7 @@
 
 - 💬 Ask me about **flutter, Design Pattern, Data Structures, OOP, UI/UX**
 
-- 📫 How to reach me **shahnil.ahzam@gmail.com**
+- 📫 How to reach me **fisforfaheem@gmail.com**
 
 - ⚡ Fun fact **I love to code and play badminton.**
 
@@ -90,4 +87,4 @@
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahzam-shahnil&label=Profile%20views&color=0e75b6&style=flat" alt="ahzam-shahnil" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahzam-shahnil&label=Profile%20views&color=0e75b6&style=flat" alt="Faheem-Ahmad" /> </p><br>
