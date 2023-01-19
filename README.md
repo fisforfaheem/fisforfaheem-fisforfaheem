@@ -1,7 +1,11 @@
 <meta name="google-site-verification" content="2BMJ3NY8ro8-ov_NLJ3JR2gS1mS7hdPGmGF5zCWq9kQ" />
 
 ### Hey there, I'm  Faheem Ahmad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="32">
-<p>I've worked on 20+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
+<p>As a  skilled and experienced Flutter developer, I have a proven track record of successfully delivering over 20+ freelance projects. My portfolio on Github showcases a selection of my work, while additional projects were completed under non-disclosure agreements.</p>
+
+<p>I am constantly striving to improve and stay up-to-date with the latest technologies and industry trends. With my strong communication and collaboration skills, I am able to work effectively with clients, stakeholders, and team members to deliver projects that exceed expectations. I am always eager to take on new challenges and am committed to delivering outstanding results.<p>
+    
+<p>If you are looking for a highly motivated and skilled Flutter developer, then I would be the perfect candidate for your team. I am confident that my skills and experience would be an asset to any organization and would welcome the opportunity to further discuss how I can contribute to your business.<p>
 
 
 <div align="center">
@@ -43,11 +47,8 @@
 - 💻 Flutter Android/Windows/Web dev
 - 📑 IT Graduate from Arid University, Rawalpindi.
 
-- 🔭 I’m currently working on [PayQr: A Scan & Pay Solution](https://github.com/ahzam-shahnil/PayQr_App)
 
 - 🌱 I’m currently learning **Flutter, Design Patterns, UI/UX**
-
-- 👯 I’m looking to collaborate on [Blockchain App](https://github.com/ahzam-shahnil/PayQr_App)
 
 - 💬 Ask me about **flutter, Design Pattern, Data Structures, OOP, UI/UX**
 
