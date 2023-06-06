@@ -58,9 +58,8 @@
 
 
 ### My skills 🛠
-👉 Flutter Developer (Dart)<br>
-👉 Android Apps (Java/XML)<br>
-👉 Windows desktop Apps (Flutter)<br>
+👉 Android Apps (Flutter SDK)<br>
+👉 Desktop Apps (Flutter SDK)<br>
 👉 Clean and efficient code<br>
 👉 Commented and prettified to help you understand<br>
 👉 Parsing data and APIs<br>
