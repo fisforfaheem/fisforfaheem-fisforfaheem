@@ -43,7 +43,7 @@
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
-- 🙋‍♂️ Freelancer at Upwork
+- 🙋‍♂️ Learner
 - 💻 Flutter Android/Windows/Web dev
 - 📑 IT Graduate from PMAS Arid University, Rawalpindi.
 
