@@ -59,18 +59,15 @@
 
 ### My skills 🛠
 👉 Flutter Developer (Dart)<br>
-👉 Android Automation (Python/C#/Appium)<br>
+<br>
 👉 Android Apps (Java/XML)<br>
 👉 Windows desktop Apps (Flutter)<br>
-👉 API Development (FastAPI/Flask)<br>
 <br>
-👉 Multithreaded code<br>
-👉 Output in JSON/CSV/Excel<br>
 👉 Clean and efficient<br>
 👉 Commented and prettified to help you understand<br>
 👉 Parsing data and APIs<br>
 👉 Dart<br>
-👉 Reverse Engineering<br>
+
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
