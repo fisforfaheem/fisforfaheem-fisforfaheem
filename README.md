@@ -3,9 +3,9 @@
 ### Hey there, I'm  Faheem Ahmad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="32">
 <p>As a  skilled and experienced Flutter developer, I have a proven track record of successfully delivering over 20+ freelance projects. My portfolio on Github showcases a selection of my work, while additional projects were completed under non-disclosure agreements.</p>
 
-<p>I am constantly striving to improve and stay up-to-date with the latest technologies and industry trends. With my strong communication and collaboration skills, I am able to work effectively with clients, stakeholders, and team members to deliver projects that exceed expectations. I am always eager to take on new challenges and am committed to delivering outstanding results.<p>
+<p>I am constantly striving to improve and stay up-to-date with the latest technologies and industry trends. With my good communication and collaboration skills, I am able to work effectively with clients and team members to deliver projects that exceed expectations. I am always eager to take on new challenges and am committed to delivering outstanding results.<p>
     
-<p>If you are looking for a highly motivated and skilled Flutter developer, then I would be the perfect candidate for your team. I am confident that my skills and experience would be an asset to any organization and would welcome the opportunity to further discuss how I can contribute to your business.<p>
+<p>If you are looking for a motivated and skilled Flutter developer, then I would be the perfect candidate for your team. I am confident that my skills and experience would be an asset to any organization and would welcome the opportunity to further discuss how I can contribute to your business.<p>
 
 
 <div align="center">
@@ -59,11 +59,11 @@
 
 ### My skills 🛠
 👉 Android and IOS Mobile Apps (Flutter SDK)<br>
-👉 Desktop Apps (Flutter SDK)<br>
+👉 Web Apps (Flutter SDK)<br>
+👉 Firebase Functions<br>
 👉 Clean and efficient code<br>
-👉 Commented and prettified to help you understand<br>
 👉 Parsing data and APIs<br>
-👉 Dart<br>
+👉 Google Admob<br>
 
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
