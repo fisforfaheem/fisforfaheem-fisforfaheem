@@ -11,13 +11,7 @@
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.facebook.com/fisforfaheem/">
-    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
-</a>
 
-<a href="https://www.linkedin.com/in/fisforfaheem/">
-    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
 <a href="https://t.me/fisforfaheem">
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
